@@ -2,6 +2,6 @@
 
 ### Hi there 👋
 
-- 🌱 Currently an undergraduate at HNU.
 
+- 🌱 Currently an undergraduate at HNU.
 - 🔭 currently learning Reinforcement Learning.
