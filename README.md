@@ -1,5 +1,5 @@
 
 ### Hi there 👋
 
-- 🌱 Currently an undergraduate at HNU.
+- 🌱 Currently an undergraduate from CS@ Hunan University(HNU).
 - 🔭 Currently studying Reinforcement Learning.
